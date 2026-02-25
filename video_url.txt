@@ -1,0 +1,5 @@
+Player URL:
+https://sartisandesh.github.io/player/?list=https://raw.githubusercontent.com/sartisandesh/fd6430ea0700d0be/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/sartisandesh/fd6430ea0700d0be/refs/heads/master/github_master.m3u8
